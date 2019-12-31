@@ -18,7 +18,7 @@ The purpose of the UFS workflows sandbox (hereafter referred to as “the sandbo
 
 2. If you believe your external development advances the capabilities of tools or source codes for UFS workflows and would like to add it to the sandbox, please let the sandbox manager know. S/he will work with you to understand your development(s) and inform other sandbox members.
 
-3. If there is agreement from other members, the sandbox manager will change or add the location of the external to the branch or fork that contains your development so others can use it.
+3. If there is agreement from other members, the sandbox manager will add an external that points to the branch or fork that contains your development so others can use it.
 
 4. Currently, the sandbox only contains an Externals.cfg file for the UFS hurricane application workflow. If you would like to add an Externals.cfg file for another UFS application’s workflow, please prepare a draft of the file with the appropriate externals and send it to the manager to review. S/he will share it with other members of the group, provide any feedback to the requestor, and commit it to the repository.
 
